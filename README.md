@@ -1,6 +1,8 @@
 # Unity-ToDoList
 基于UNITY的TODOLIST任务清单 可导出CSV JSON等格式
 
+将Editor脚本放在项目Editor文件夹下，如果没有请新建。
+
 🚀 To-Do Manager – 高效任务管理利器，专为Unity开发者打造！
 还在为项目排期、Bug修复、待办功能点手忙脚乱？To-Do Manager 让你直接在 Unity Editor 内就能完成 任务规划、进度跟踪、优先级排序、分类管理、数据导出 等全套流程。无需跳出引擎，即可把“想法”变“计划”，把“计划”变“完成”！
 🌟 核心亮点
